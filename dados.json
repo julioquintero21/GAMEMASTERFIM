@@ -1,0 +1,61 @@
+{
+    "personagem":[
+        {
+            "nome":"Wanda Maximoff",
+            "poder":"Magia do Caos",
+            "forca":"7/10",
+            "habil":"9/10",
+            "gif": " <img src='imagens/wanda.jpg'>"
+        },
+        {
+            "nome":"Gamora",
+            "poder":"Não Possui Poder",
+            "forca":"9/10",
+            "habil":"9/10",
+            "gif": " <img src='imagens/gamora2.jpg'>"
+        },
+        {
+            "nome":"Viuva Negra",
+            "poder":"Não Possui Poder",
+            "forca":"8/10",
+            "habil":"10/10",
+            "gif": " <img src='imagens/viuva2.jpg'>"
+        },
+        {
+            "nome":"Shuri",
+            "poder":"Tecnologia",
+            "forca":"5/10",
+            "habil":"8/10",
+            "gif": " <img src='imagens/shuri2.jpg'>"
+        },
+        {
+            "nome":"Visão",
+            "poder":"Poder Da Joia DO Infinito",
+            "forca":"10/10",
+            "habil":"10/10",
+            "gif": " <img src='imagens/visao2.jpg'>"
+        },
+        {
+            "nome":"Thor",
+            "poder":"Trovão",
+            "forca":"10/10",
+            "habil":"9/10",
+            "gif": " <img src='imagens/thor2.jpg'>"
+        },
+        {
+            "nome":"Hulk",
+            "poder":"Poder Gama e força",
+            "forca":"10/10",
+            "habil":"7/10",
+            "gif": " <img src='imagens/hulk2.jpg'>"
+        },
+        {
+            "nome":"Dr.Stranger",
+            "poder":"Magia Dos Magos",
+            "forca":"6/10",
+            "habil":"10/10",
+            "gif": " <img src='imagens/stranger2.jpg' >"
+        }
+    ]
+    
+}
